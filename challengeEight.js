@@ -45,4 +45,4 @@ switch(names.length) {
   }
 }
 
-// this question challenged me to think further than the if/else statements and implement switch, tasking multiple results and even shortening the display results for users once the return exceeded the name count wanted
+// this question challenged me to think further than the if/else statements and implement switch, tasking multiple results and even shortening the display results for users once the return exceeded the name count asked.

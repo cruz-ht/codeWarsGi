@@ -20,4 +20,4 @@ let result = []
   return result.join("")
 }
 
-// is this particular question, I was given the task to place something new instead of retrieving from an array and use a method like join to convert it to string, expanding my thought proccess to think differenkty from past problems given.
+// is this particular question, I was given the task to place something new instead of retrieving from an array and use a method like join to convert it to string, expanding my thought proccess to think differently from my past problems.
